@@ -1,12 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SENKAI", "SENKAI.csproj", "{515192BB-7B04-EEE2-5761-FCE990C8D563}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{515192BB-7B04-EEE2-5761-FCE990C8D563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515192BB-7B04-EEE2-5761-FCE990C8D563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515192BB-7B04-EEE2-5761-FCE990C8D563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515192BB-7B04-EEE2-5761-FCE990C8D563}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
