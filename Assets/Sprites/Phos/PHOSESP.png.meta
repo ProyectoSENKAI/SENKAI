@@ -1,9 +1,37 @@
 fileFormatVersion: 2
 guid: ef638937287653443bd44f59d1e9d3ce
-timeCreated: 1518661748
+timeCreated: 1518669156
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: PHOSESP_0
+    21300002: PHOSESP_1
+    21300004: PHOSESP_2
+    21300006: PHOSESP_3
+    21300008: PHOSESP_4
+    21300010: PHOSESP_5
+    21300012: PHOSESP_6
+    21300014: PHOSESP_7
+    21300016: PHOSESP_8
+    21300018: PHOSESP_9
+    21300020: PHOSESP_10
+    21300022: PHOSESP_11
+    21300024: PHOSESP_12
+    21300026: PHOSESP_13
+    21300028: PHOSESP_14
+    21300030: PHOSESP_15
+    21300032: PHOSESP_16
+    21300034: PHOSESP_17
+    21300036: PHOSESP_18
+    21300038: PHOSESP_19
+    21300040: PHOSESP_20
+    21300042: PHOSESP_21
+    21300044: PHOSESP_22
+    21300046: PHOSESP_23
+    21300048: PHOSESP_24
+    21300050: PHOSESP_25
+    21300052: PHOSESP_26
+    21300054: PHOSESP_27
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -34,7 +62,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -58,9 +86,405 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PHOSESP_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 248
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 894
+        width: 229
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 457
+        width: 230
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_3
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 881
+        width: 241
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_4
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 881
+        width: 278
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_5
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 881
+        width: 260
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_6
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 890
+        width: 233
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_7
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 863
+        width: 231
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_8
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 853
+        width: 238
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_9
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 853
+        width: 238
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_10
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 853
+        width: 248
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_11
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 5
+        width: 251
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_12
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 440
+        width: 210
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_13
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 428
+        width: 224
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_14
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 416
+        width: 251
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_15
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 433
+        width: 223
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_16
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 428
+        width: 219
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_17
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 425
+        width: 247
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_18
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 415
+        width: 247
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_20
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 0
+        width: 237
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_21
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 420
+        width: 248
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_22
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 453
+        width: 217
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_23
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 422
+        width: 228
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_24
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 28
+        width: 254
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_25
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 894
+        width: 222
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_26
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 896
+        width: 231
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOSESP_27
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 882
+        width: 230
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 

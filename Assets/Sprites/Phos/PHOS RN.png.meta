@@ -1,9 +1,39 @@
 fileFormatVersion: 2
 guid: 1a91783332869c040b735a54fb37b754
-timeCreated: 1518661733
+timeCreated: 1518670240
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: PHOS RN_0
+    21300002: PHOS RN_1
+    21300004: PHOS RN_2
+    21300006: PHOS RN_3
+    21300008: PHOS RN_4
+    21300010: PHOS RN_5
+    21300012: PHOS RN_6
+    21300014: PHOS RN_7
+    21300016: PHOS RN_8
+    21300018: PHOS RN_9
+    21300020: PHOS RN_10
+    21300022: PHOS RN_11
+    21300024: PHOS RN_12
+    21300026: PHOS RN_13
+    21300028: PHOS RN_14
+    21300030: PHOS RN_15
+    21300032: PHOS RN_16
+    21300034: PHOS RN_17
+    21300036: PHOS RN_18
+    21300038: PHOS RN_19
+    21300040: PHOS RN_20
+    21300042: PHOS RN_21
+    21300044: PHOS RN_22
+    21300046: PHOS RN_23
+    21300048: PHOS RN_24
+    21300050: PHOS RN_25
+    21300052: PHOS RN_26
+    21300054: PHOS RN_27
+    21300056: PHOS RN_28
+    21300058: PHOS RN_29
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -34,7 +64,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -58,9 +88,405 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PHOS RN_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1348
+        width: 306
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1334
+        width: 321
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_2
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1334
+        width: 321
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_3
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1335
+        width: 305
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_4
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1313
+        width: 305
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_5
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1315
+        width: 307
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_6
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1315
+        width: 305
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_7
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 1313
+        width: 332
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_8
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1304
+        width: 329
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_11
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 894
+        width: 317
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 882
+        width: 327
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_13
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 864
+        width: 327
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_14
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 864
+        width: 328
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_15
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 864
+        width: 317
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_16
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 865
+        width: 318
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_17
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 863
+        width: 302
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_18
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 844
+        width: 289
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_19
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 844
+        width: 289
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 306
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_21
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 416
+        width: 309
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_22
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 416
+        width: 311
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_23
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 434
+        width: 313
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_24
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 420
+        width: 307
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_25
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 416
+        width: 324
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_26
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 415
+        width: 322
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_27
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 411
+        width: 315
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_28
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 411
+        width: 313
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PHOS RN_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 307
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 
