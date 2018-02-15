@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Player : MonoBehaviour {
     Animator animator;
+    //Velocidad
+    float speed = 1F;
 	// Use this for initialization
 	void Start () {
         animator = GetComponent<Animator>();
@@ -12,10 +14,11 @@ public class Player : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         //Entradas de teclado
-        if (Input.GetKeyDown(KeyCode.D)){
+        if (Input.GetKey(KeyCode.D)){
             //Indicamos que es lo que vamos a cambiar
             animator.SetBool("isWalkL", true);
             transform.localRotation = Quaternion.Euler(0, 0, 0);
+            transform.position += Vector3.right * speed * Time.deltaTime;
         }
         if (Input.GetKeyUp(KeyCode.D)){
             animator.SetBool("isWalkL", false);
